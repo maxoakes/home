@@ -142,7 +142,7 @@ function appendWeatherFieldEntry(target, labelHTML, valueHTMLArray)
 
 	let iconDiv = document.createElement("img");
 	iconDiv.className = "weather-field-icon";
-	iconDiv.src = "../asset/weather/cloud.png";
+	iconDiv.src = "asset/weather/cloud.png";
 	field.appendChild(iconDiv);
 
 	let labelDiv = document.createElement("div");

@@ -1,1 +1,1 @@
-"# home" 
+This is an alpha website with many issues to fix and much to develop.
